@@ -4,8 +4,8 @@
 
 This is a take-home exercise designed to give you the space to do your best work without the pressure of live coding. There are no trick questions — we want to see how you think, how you build, and how you communicate your decisions.
 
-**Time expectation:** 1-2 hours
-**Deliverable:** GitHub repo (preferred) or zip file
+- **Time expectation:** 1-2 hours
+- **Deliverable:** GitHub repo (preferred) or zip file
 
 ---
 
@@ -16,8 +16,6 @@ Be LOVE wants a reusable carousel section that the marketing team can manage wit
 ---
 
 ## What to Build
-
----
 
 ### Data & Architecture
 
