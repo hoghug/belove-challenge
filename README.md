@@ -44,8 +44,6 @@ The following should be configurable in the Shopify theme editor:
 - Content mode toggle — metaobject or block
 - Number of slides visible on **desktop**
 - Number of slides visible on **mobile**
-- Show/hide date on testimonial cards
-- Loop toggle — should the carousel wrap around or stop at the ends
 
 ---
 
@@ -57,7 +55,7 @@ Each card should display:
 - Name
 - Title
 - Body copy
-- Star rating rendered as **actual stars** using a Liquid loop (not just a number)
+- Star rating
 
 ---
 
@@ -67,8 +65,7 @@ Include a short README at the root of your project answering:
 
 - How did you architect the metaobject schema and why?
 - How does the mode switching and fallback logic work?
-- What tradeoffs did you make given the time constraint?
-- What would you improve or add with more time?
+- What tradeoffs (if any) did you make given the time constraint?
 
 ---
 
